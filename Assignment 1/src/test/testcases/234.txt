@@ -1,0 +1,5 @@
+
+func main(number a, string s, number arr[2 * 3])
+begin
+    print("Allowed in parameter list")
+end

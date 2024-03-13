@@ -1,0 +1,12 @@
+
+,func,main,(,),begin,
+,begin,
+,end,
+,begin,
+,hello,(,),
+,end,
+,begin,
+,a,<-,1,
+,end,
+,end,
+,<EOF>

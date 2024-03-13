@@ -1,0 +1,12 @@
+
+            func calculateExpApproximation(number n) ## test here
+            begin ## test here
+                number result <- 1.0 ## test here
+                number term <- 1.0 ## test here
+                for i until i <= n by i ## test here
+                begin ## test here
+                    term <- (1.0 / n) ## test here
+                end ## test here
+                return result ## test here
+            end ## test here
+        

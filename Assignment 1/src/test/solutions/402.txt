@@ -1,0 +1,5 @@
+
+,
+,func,test_comment,(,),
+,begin,
+,number,abcxyz,<-,Error Token '

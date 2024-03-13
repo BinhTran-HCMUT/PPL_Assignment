@@ -1,0 +1,4 @@
+
+func main(dynamic a, var c)
+begin
+end

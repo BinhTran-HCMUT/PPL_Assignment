@@ -1,0 +1,7 @@
+
+        func main () begin
+            for i until i >= 5*2 by 2
+                for j until j >= 5*2 by 1
+                    printInteger(i+j)
+        end
+        

@@ -1,0 +1,8 @@
+
+,func,sort,(,number,arr,[,100,],),
+,begin,
+,
+,number,sorted_arr,[,100,],<-,arr,
+,return,sorted_arr,[,100,],
+,end,
+,<EOF>

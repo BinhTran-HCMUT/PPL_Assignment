@@ -1,0 +1,5 @@
+
+func test()
+begin
+    number arr <- [[1, 2, 3], foo()[23], a > b, "a" ... "c", foo() ... goo(), []]
+end

@@ -1,0 +1,10 @@
+
+func test(number a, string s, bool done[12])
+begin
+    number b <- a
+    number c <- a + b * b
+    string ss <- (s ... s) ... s
+    bool flag <- not (ss == s) and (b > a)
+    done[0] <- flag
+    return done
+end

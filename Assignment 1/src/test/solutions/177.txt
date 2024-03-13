@@ -1,0 +1,7 @@
+
+,func,isOdd,(,number,x,),
+,return,x,!=,0,
+,func,getArr,(,number,x,),begin,
+,return,[,x,,,x,*,2,,,x,*,3,],
+,end,
+,<EOF>

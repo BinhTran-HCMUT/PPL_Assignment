@@ -1,0 +1,8 @@
+
+,func,foo,(,),
+,begin,
+,if,(,a,=,b,),do,(,b,),
+,elif,(,a,<,b,),do,(,b,),
+,else,do,(,a,),
+,end,
+,<EOF>

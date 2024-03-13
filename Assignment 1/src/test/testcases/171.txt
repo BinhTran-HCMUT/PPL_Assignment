@@ -1,0 +1,11 @@
+
+func create_string()
+begin
+    string res <- ""
+    number i <- 1
+    for i until 100 by 1
+    begin
+        res <- res ... str(i)
+    end
+    return res
+end

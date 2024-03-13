@@ -1,0 +1,7 @@
+
+func min(number a, number b, number c)
+begin
+    if (a < b) b <- a
+    if (c < b) b <- c
+    return b
+end

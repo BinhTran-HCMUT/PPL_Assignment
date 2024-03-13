@@ -1,0 +1,7 @@
+
+func sort(number arr[100])
+begin
+    ## Go to something default sort functions
+    number sorted_arr[100] <- arr
+    return sorted_arr[100]
+end

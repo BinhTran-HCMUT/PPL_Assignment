@@ -1,0 +1,12 @@
+
+,func,calcSum,(,number,n,),
+,begin,
+,number,i,<-,1,
+,number,sum,<-,0,
+,for,i,until,n,by,1,
+,begin,
+,sum,<-,sum,+,i,
+,end,
+,return,sum,
+,end,
+,<EOF>

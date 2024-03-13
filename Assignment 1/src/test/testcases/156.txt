@@ -1,0 +1,7 @@
+
+        func main ()
+        begin
+            for i until i >= 5 by 2
+                printInteger("Yoooo!")
+        end
+        

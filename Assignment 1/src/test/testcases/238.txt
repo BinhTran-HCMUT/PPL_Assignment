@@ -1,0 +1,8 @@
+
+func _______()
+begin
+    number a <- 00012789.10002992017e-179423
+    string s <- ""
+    foo()[12] <- a
+    return foo()[12]
+end

@@ -1,0 +1,11 @@
+
+,func,void,(,),begin,
+,for,i,until,i,>=,getMax,(,),by,1,begin,
+,if,(,i,=,threshold,),
+,break,
+,if,(,i,<,0,),
+,continue,
+,else,printInteger,(,i,),
+,end,
+,end,
+,<EOF>

@@ -1,0 +1,11 @@
+
+        func main() begin
+            begin
+                hello()
+                a<-1
+            begin
+                hello()
+                a<-1
+            end
+        end
+        

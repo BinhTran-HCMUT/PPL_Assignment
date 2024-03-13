@@ -1,0 +1,6 @@
+
+    ## ppl
+func test_comment() ##hello
+begin
+    number abcxyz <- '123' ## this is allowed
+end

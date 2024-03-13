@@ -1,0 +1,22 @@
+## this is a comment
+## ## is also contained in comment
+
+
+
+
+
+
+## this is a comment
+
+
+
+
+func main()      begin
+    number a
+    var a <- 12
+    var b <- "something you must check '" \r \n \t \f \b \''""
+    dynamic cajfs____90928__
+    string ___________
+    number b[1, 2, 3, 0] <- [[123], 3, 4, [21324, [2123, 2, 1], [1, 2]]]
+    return 0
+end

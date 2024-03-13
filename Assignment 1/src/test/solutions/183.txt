@@ -1,0 +1,6 @@
+
+,def,test_183,(,self,),
+,input,=,,
+,expect,=,<EOF>,
+,self,-,>,assertTrue,(,TestLexer,-,>,test,(,input,,,expect,,,183,),),
+,<EOF>

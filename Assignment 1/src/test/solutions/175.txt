@@ -1,0 +1,9 @@
+
+,func,date,(,number,month,),
+,begin,
+,if,(,month,=,2,),return,29,
+,elif,(,(,month,=,1,),or,(,month,=,3,),),return,31,
+,elif,(,(,month,=,4,),or,(,month,=,6,),),return,30,
+,else,return,32,
+,end,
+,<EOF>

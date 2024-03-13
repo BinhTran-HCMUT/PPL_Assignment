@@ -1,0 +1,7 @@
+
+        func main () begin
+            f(f())
+            f(f(f(f(f()))))
+            f(f(f(f(f(f())))),f(f(f(f(f())))))
+        end
+        

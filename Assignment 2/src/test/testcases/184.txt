@@ -1,0 +1,3 @@
+
+## Well, we cannot use the dot (.) operator
+number a <- x.height

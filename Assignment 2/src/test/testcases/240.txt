@@ -1,0 +1,7 @@
+
+func __self__()
+begin
+    string abc <- "43817807890982835"
+    number a <- --00192878.20018273e-18253
+    number arr <- [[], []]
+end

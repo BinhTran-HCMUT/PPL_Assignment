@@ -1,0 +1,1 @@
+bool,done,[,100,],<-,[,true,,,true,,,true,,,false,,,true,,,not,false,,,...,],<EOF>

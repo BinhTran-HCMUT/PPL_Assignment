@@ -1,0 +1,4 @@
+
+iff(a > c) do(a)
+iffff(a > c) do(c)
+iffffffff(a < c) do(a, c)
