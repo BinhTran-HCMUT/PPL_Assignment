@@ -1,0 +1,21 @@
+
+func x()
+func y()
+func z()
+func main()
+begin
+    dynamic x
+    dynamic y
+    dynamic z
+    number a[2, 2, 2, 2]
+    a <- [[[[y(), x], y], z], [[[x, y()], z()], x()]]
+    number x1 <- x
+    number x2[2, 2] <- x()
+    number y1[2] <- y
+    number y2 <- y()
+    number z1[2, 2] <- z
+    number z2[2] <- z() 
+end
+func x() return [[1, 2], [3, 4]]
+func y() return 5
+func z() return [6, 7]

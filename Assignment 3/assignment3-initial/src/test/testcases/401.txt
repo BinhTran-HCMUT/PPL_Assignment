@@ -1,0 +1,7 @@
+
+number a[5]
+func main()
+begin
+    string b[5]
+    number b
+end

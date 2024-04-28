@@ -1,0 +1,7 @@
+
+func main()
+begin
+    dynamic x
+    string a
+    a <- [x, x, x]
+end

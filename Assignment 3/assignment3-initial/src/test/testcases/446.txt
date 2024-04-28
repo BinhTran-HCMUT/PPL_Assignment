@@ -1,0 +1,6 @@
+
+dynamic x
+func main()
+begin
+    number a <- x[0]
+end

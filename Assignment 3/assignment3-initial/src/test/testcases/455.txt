@@ -1,0 +1,14 @@
+
+func foo() return true
+func foo1() return true
+func main()
+begin
+    if(foo()) dynamic x
+    elif(true)
+    begin
+        var x <- 123
+    end
+    elif(foo1()) dynamic y
+    else
+        var y <- 12
+end

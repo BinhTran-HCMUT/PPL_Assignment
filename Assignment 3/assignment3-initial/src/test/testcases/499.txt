@@ -1,0 +1,8 @@
+
+func main()
+begin
+    dynamic x
+    number i <- 1
+    for i until i < 10 by [[1, 2], [3, 4]]
+        break
+end

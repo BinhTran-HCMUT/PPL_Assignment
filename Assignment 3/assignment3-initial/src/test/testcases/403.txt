@@ -1,0 +1,16 @@
+
+func foo(number a[5], string a)
+begin
+    number a[5]
+    var i <- 0
+    for i until i >= 5 by 1
+    begin
+        a[i] <- i * i + 5
+    end
+    return -1
+end
+
+func main()
+begin
+    string c
+end

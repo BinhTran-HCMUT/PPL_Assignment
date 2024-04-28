@@ -1,0 +1,9 @@
+
+func foo() return true
+func foo1() return
+func main()
+begin
+    if(foo()) dynamic x
+    elif(true) var x <- 123
+    elif(foo1()) dynamic y
+end

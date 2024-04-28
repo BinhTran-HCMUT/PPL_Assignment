@@ -1,0 +1,8 @@
+
+func main()
+begin
+    number i
+    dynamic j
+    for i until true by j = 2
+        dynamic x
+end

@@ -1,0 +1,9 @@
+func main()
+        begin
+            dynamic c
+            if (c > 1)
+                return
+            elif (c < 1)
+                c <- a 
+        end
+        

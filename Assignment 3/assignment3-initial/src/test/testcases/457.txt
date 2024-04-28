@@ -1,0 +1,7 @@
+
+func main()
+begin
+    string i
+    for i until true by 1
+        dynamic x
+end

@@ -1,0 +1,4 @@
+
+dynamic x
+func foo() return x
+func main() return

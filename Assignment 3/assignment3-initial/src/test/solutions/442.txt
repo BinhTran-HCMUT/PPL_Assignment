@@ -1,0 +1,1 @@
+Type Cannot Be Inferred: VarDecl(Id(a), None, dynamic, BinaryOp(+, CallExpr(Id(foo), [ArrayLit(Id(x), Id(x))]), NumLit(13.0)))

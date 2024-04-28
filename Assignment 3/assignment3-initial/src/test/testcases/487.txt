@@ -1,0 +1,7 @@
+
+func foo(number a, string a)
+func main()
+begin
+    foo(12, "abc", true)
+end
+func foo(number x, string y) return

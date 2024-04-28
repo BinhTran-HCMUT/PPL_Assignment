@@ -1,0 +1,7 @@
+
+dynamic x
+func foo(string a) return 12
+func main()
+begin
+    dynamic a <- foo([x, x]) + 13
+end

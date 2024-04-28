@@ -1,0 +1,7 @@
+
+func main()
+begin
+    dynamic x
+    number a[2, 2, 3]
+    a <- [[x], 12]
+end

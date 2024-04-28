@@ -1,0 +1,7 @@
+
+func foo() return true
+func main()
+begin
+    number x
+    if(foo()) dynamic x
+end

@@ -1,0 +1,7 @@
+
+func foo(number a[1, 3], string b) return
+func main()
+begin
+    dynamic x
+    foo([[x]], "abc")
+end

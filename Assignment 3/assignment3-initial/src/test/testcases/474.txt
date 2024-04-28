@@ -1,0 +1,9 @@
+
+dynamic x
+func foo()
+func main()
+begin
+    number a
+    a <- foo()
+end
+func foo() return [x, x]

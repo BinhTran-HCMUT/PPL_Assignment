@@ -1,0 +1,11 @@
+
+dynamic x
+dynamic arr
+func foo()
+func main()
+begin
+    number a[3]
+    arr <- a
+    arr <- foo()
+end
+func foo() return [[x]]

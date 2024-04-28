@@ -1,0 +1,12 @@
+
+func f(number x)
+func f(number x)
+begin
+    if (x >= 2) return f(x - 1) + f(x - 2)
+    return 1
+end
+func main()
+begin
+    number x <- f(2)
+    writeNumber(x)
+end

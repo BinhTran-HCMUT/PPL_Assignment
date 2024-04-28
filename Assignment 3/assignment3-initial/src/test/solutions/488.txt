@@ -1,0 +1,1 @@
+Type Cannot Be Inferred: CallStmt(Id(foo), [ArrayLit(ArrayLit(Id(x))), StringLit(abc)])

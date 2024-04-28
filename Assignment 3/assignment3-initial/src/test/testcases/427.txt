@@ -1,0 +1,4 @@
+
+func foo(number a) return
+func foo() return
+func main() return

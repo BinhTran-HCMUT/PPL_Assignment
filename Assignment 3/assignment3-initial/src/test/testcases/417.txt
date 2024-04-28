@@ -1,0 +1,6 @@
+
+dynamic x
+func main()
+begin
+    var y <- x
+end

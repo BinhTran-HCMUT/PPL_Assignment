@@ -1,0 +1,7 @@
+
+dynamic x
+dynamic y
+func main()
+begin
+    string arr <- [[x, x], y]
+end

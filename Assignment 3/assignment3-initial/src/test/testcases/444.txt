@@ -1,0 +1,8 @@
+
+dynamic x
+func foo(number a) return 12
+func main()
+begin
+    x <- 10 + 20
+    dynamic a <- foo("abc") + 13
+end

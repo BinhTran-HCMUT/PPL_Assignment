@@ -1,0 +1,6 @@
+
+string s <- "Hello world"
+func main()
+begin
+    string ss <- s[1]
+end

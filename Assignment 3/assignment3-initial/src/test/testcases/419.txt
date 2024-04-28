@@ -1,0 +1,6 @@
+
+func foo(number a, string a)
+func main()
+begin
+    var c <- foo
+end

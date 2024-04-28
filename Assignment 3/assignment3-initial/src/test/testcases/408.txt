@@ -1,0 +1,13 @@
+
+func main()
+begin
+    number x
+    string s
+    bool a
+    x <- readNumber()
+    writeNumber(x)
+    s <- readString()
+    writeString(s)
+    a <- readBool()
+    writeBool(a)
+end

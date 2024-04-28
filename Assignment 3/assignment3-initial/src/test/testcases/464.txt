@@ -1,0 +1,13 @@
+
+func foo()
+begin
+    continue
+end
+func main()
+begin
+    number i <- 1
+    number j <- 1
+    for i until i < 10 by 1
+        for j until j < 10 by 1
+            foo()
+end

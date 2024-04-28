@@ -1,0 +1,6 @@
+
+string s
+func main()
+begin
+    dynamic a <- not s
+end

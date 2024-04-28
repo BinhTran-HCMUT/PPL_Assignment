@@ -1,0 +1,11 @@
+
+func main()
+begin
+    number x
+    number i <- 1
+    number j <- 1
+    for i until i < 10 by 1
+        if(true)
+            for j until j < 10 by 1
+                dynamic x
+end

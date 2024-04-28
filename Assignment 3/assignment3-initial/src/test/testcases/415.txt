@@ -1,0 +1,6 @@
+
+dynamic n
+func main()
+begin
+    dynamic arr <- [[[n]], [[n]]]
+end

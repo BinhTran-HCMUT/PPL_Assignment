@@ -1,0 +1,8 @@
+
+dynamic x
+func foo()
+func main()
+begin
+    foo()
+end
+func foo() return [x, x]
